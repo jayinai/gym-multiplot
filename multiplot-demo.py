@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[27]:
-
 import os
 import scoring
 import numpy as np
@@ -42,30 +37,14 @@ a = pd.DataFrame.from_dict(rewards)
 groupMean = a.mean(axis=1)
 groupStd = a.std(axis=1)
 eps = a.index
-
 print(dirs)
 a.head()
-
-
-# In[28]:
-
 ax = a.plot(color='green', legend=False, alpha=0.2)
 ax.set_title('Average Performance over ' + str(count) + ' runs', fontsize=20)
 plt.plot(eps, groupMean, "k")
 plt.fill_between(eps, groupMean+groupStd, groupMean-groupStd, facecolor='blue', alpha=0.2)
 plt.xticks(color='k', size=15)
 plt.yticks(color='k', size=15)
-ax.set_xlabel('Reward', fontsize=18)
-ax.set_ylabel('Episode', fontsize=18)
+ax.set_xlabel('Episode', fontsize=18)
+ax.set_ylabel('Reward', fontsize=18)
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-

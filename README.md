@@ -10,6 +10,10 @@ Me too.
 3. Comment out the CRITICAL bit where I add random noise because I wanted to use a single test set, but still wanted some simulated difference.
 4. Revel in the beautiful aggregate statistics figure.
 
+## But korymath, it's not working! 
+First, this was a proof of concept hackup. 
+Second, drop an issue and let's figure out how to make this work more robustly together.
+
 ## What's next?
 There are lots more statistics to capture from OpenAI gym, and this just shows a single sample... 
 

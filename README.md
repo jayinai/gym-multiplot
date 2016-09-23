@@ -19,5 +19,7 @@ There are lots more statistics to capture from OpenAI gym, and this just shows a
 
 ![beautiful example](https://github.com/korymath/gym-multiplot/blob/master/example.png?raw=true "Easy to see the benefits.")
 
+![another nice example](https://raw.githubusercontent.com/korymath/gym-multiplot/master/example2.png "CartPole Policy Gradient")
+
 ## Thanks
 [JKCooper2](https://github.com/JKCooper2) for the quick help early on.

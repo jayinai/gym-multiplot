@@ -5,10 +5,9 @@ Visualizing and Comparing Multiple OpenAI Gym Experiments
 Me too.
 
 ## How do I use this?
-1. Try out the notebook, see if it fits your needs.
-2. Copy over some experimenal results worth comparing.
-3. Comment out the CRITICAL bit where I add random noise because I wanted to use a single test set, but still wanted some simulated difference.
-4. Revel in the beautiful aggregate statistics figure.
+1. Start with the notebook, see if it fits your needs.
+2. Copy over some experimenal results worth comparing, there are currently a few example folders here so that you can get a sense of the structure and funcionality.
+3. Revel in the beautiful aggregate statistics.
 
 ## But korymath, it's not working! 
 First, this was a proof of concept hackup. 

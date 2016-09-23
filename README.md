@@ -20,9 +20,9 @@ Second, drop an issue and let's figure out how to make this work more robustly t
 ## What's next?
 There are lots more statistics to capture from OpenAI gym, and this just shows a single sample... 
 
-![length example](https://github.com/korymath/gym-multiplot/blob/master/example-length.png?raw=true)
+![length example](https://github.com/korymath/gym-multiplot/blob/master/images/example-length.png?raw=true)
 
-![reward example](https://raw.githubusercontent.com/korymath/gym-multiplot/master/example-reward.png)
+![reward example](https://raw.githubusercontent.com/korymath/gym-multiplot/master/images/example-reward.png)
 
 ## Thanks
 [JKCooper2](https://github.com/JKCooper2) for the quick help early on.

@@ -1,0 +1,1 @@
+{"env_info": {"env_id": "CartPole-v0", "gym_version": "0.1.7"}, "seeds": [5483631388235562841], "stats": "openaigym.episode_batch.0.85684.stats.json", "videos": [["openaigym.video.0.85684.video000000.mp4", "openaigym.video.0.85684.video000000.meta.json"], ["openaigym.video.0.85684.video000100.mp4", "openaigym.video.0.85684.video000100.meta.json"]]}
